@@ -101,7 +101,7 @@
       "id": 10
     },
     {
-      "titulo": "Star Wars: A Ascensão Skywalker",
+      "titulo": "Star Wars: A Ascensão Skywalker ",
       "urlFoto": "https://m.media-amazon.com/images/M/MV5BMDljNTQ5ODItZmQwMy00M2ExLTljOTQtZTVjNGE2NTg0NGIxXkEyXkFqcGdeQXVyODkzNTgxMDg@._V1_UX182_CR0,0,182,268_AL_.jpg",
       "dtLancamento": "2019-12-19T03:00:00.000Z",
       "descricao": "In Theaters Now\nAfter Palpatine mysteriously returns, the Resistance faces the First Order once more in the final chapter of the Skywalker saga.",
@@ -118,117 +118,7 @@
       "nota": 0,
       "urlIMDb": "",
       "genero": "Ficção cientifica",
-      "id": 12
-    },
-    {
-      "titulo": "teste",
-      "urlFoto": "",
-      "dtLancamento": "2021-08-03T03:00:00.000Z",
-      "descricao": "",
-      "nota": 0,
-      "urlIMDb": "",
-      "genero": "Ficção cientifica",
       "id": 13
-    },
-    {
-      "titulo": "teste",
-      "urlFoto": "",
-      "dtLancamento": "2021-08-03T03:00:00.000Z",
-      "descricao": "",
-      "nota": 0,
-      "urlIMDb": "",
-      "genero": "Ficção cientifica",
-      "id": 14
-    },
-    {
-      "titulo": "teste",
-      "urlFoto": "",
-      "dtLancamento": "2021-08-03T03:00:00.000Z",
-      "descricao": "",
-      "nota": 0,
-      "urlIMDb": "",
-      "genero": "Ficção cientifica",
-      "id": 15
-    },
-    {
-      "titulo": "teste",
-      "urlFoto": "",
-      "dtLancamento": "2021-08-03T03:00:00.000Z",
-      "descricao": "",
-      "nota": 0,
-      "urlIMDb": "",
-      "genero": "Ficção cientifica",
-      "id": 16
-    },
-    {
-      "titulo": "teste",
-      "urlFoto": "",
-      "dtLancamento": "2021-08-03T03:00:00.000Z",
-      "descricao": "",
-      "nota": 0,
-      "urlIMDb": "",
-      "genero": "Ficção cientifica",
-      "id": 17
-    },
-    {
-      "titulo": "teste",
-      "urlFoto": "",
-      "dtLancamento": "2021-08-03T03:00:00.000Z",
-      "descricao": "",
-      "nota": 0,
-      "urlIMDb": "",
-      "genero": "Ficção cientifica",
-      "id": 18
-    },
-    {
-      "titulo": "gggdfd",
-      "urlFoto": "",
-      "dtLancamento": "2021-08-09T03:00:00.000Z",
-      "descricao": "",
-      "nota": 0,
-      "urlIMDb": "",
-      "genero": "Terror",
-      "id": 19
-    },
-    {
-      "titulo": "gggdfd",
-      "urlFoto": "",
-      "dtLancamento": "2021-08-09T03:00:00.000Z",
-      "descricao": "",
-      "nota": 0,
-      "urlIMDb": "",
-      "genero": "Terror",
-      "id": 20
-    },
-    {
-      "titulo": null,
-      "urlFoto": null,
-      "dtLancamento": null,
-      "descricao": null,
-      "nota": null,
-      "urlIMDb": null,
-      "genero": null,
-      "id": 21
-    },
-    {
-      "titulo": null,
-      "urlFoto": null,
-      "dtLancamento": null,
-      "descricao": null,
-      "nota": null,
-      "urlIMDb": null,
-      "genero": null,
-      "id": 22
-    },
-    {
-      "titulo": null,
-      "urlFoto": null,
-      "dtLancamento": null,
-      "descricao": null,
-      "nota": null,
-      "urlIMDb": null,
-      "genero": null,
-      "id": 23
     }
   ]
 }
